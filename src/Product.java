@@ -21,8 +21,17 @@ public class Product {
     public static void majorFeatureFunction() {
 
         System.out.println("Restoring the balance of power..");
-        System.out.println("Landing on Kashyyyk");
-        System.out.println("Rescuing the Wookiees");
+        System.out.println("Landing on Kashyyyk..");
+        System.out.println("Rescuing the Wookiees..");
+        System.out.println("Destruction of the death star..");
+        System.out.println("Defeating Palpatine..");
+
+    }
+
+    public static void featureFunction() {
+
+        System.out.println("Sword added");
+        System.out.println("Lightsaber added");
 
     }
 }
