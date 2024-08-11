@@ -15,6 +15,7 @@ public class Product {
 
         System.out.println("Sword added");
         System.out.println("Axe added");
+        System.out.println("Lightsaber added");
 
     }
 }
