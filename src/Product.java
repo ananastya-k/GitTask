@@ -11,4 +11,9 @@ public class Product {
         System.out.println("Episode 1 - The phantom menace..");
 
     }
+    public static void featureFunction() {
+
+        System.out.println("Sword added");
+
+    }
 }
