@@ -20,6 +20,7 @@ public class Product {
         System.out.println("Landing on Kashyyyk..");
         System.out.println("Rescuing the Wookiees..");
         System.out.println("Destruction of the death star..");
+        System.out.println("Defeating Palpatine..");
 
     }
 
