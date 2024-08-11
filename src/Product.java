@@ -8,6 +8,8 @@ public class Product {
 
         System.out.println("New functional");
 
+        featureFunction();
+
 
     }
 
