@@ -3,6 +3,7 @@ public class Product {
 
         System.out.println("Version 0.1 without bug");
         developFunction();
+        majorFeatureFunction();
 
     }
 
