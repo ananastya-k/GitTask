@@ -14,6 +14,7 @@ public class Product {
     public static void featureFunction() {
 
         System.out.println("Sword added");
+        System.out.println("Axe added");
 
     }
 }
