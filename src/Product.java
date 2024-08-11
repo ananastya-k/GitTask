@@ -4,4 +4,10 @@ public class Product {
         System.out.println("Version 0.1");
 
     }
+
+    public static void developFunction() {
+
+        System.out.println("Start develop..");
+
+    }
 }
